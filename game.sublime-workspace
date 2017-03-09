@@ -1,0 +1,1239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ten",
+				"tendril_i"
+			],
+			[
+				"random",
+				"randomize"
+			],
+			[
+				"rand",
+				"randomize"
+			],
+			[
+				"con",
+				"contentNode"
+			],
+			[
+				"post",
+				"postObj"
+			],
+			[
+				"pin",
+				"pinnedPostList"
+			],
+			[
+				"pned",
+				"pinnedPostList"
+			],
+			[
+				"sectio",
+				"sectioninside"
+			],
+			[
+				"loaded",
+				"loadedIndex"
+			],
+			[
+				"pddi",
+				"padding-right"
+			],
+			[
+				"tena",
+				"tenant_index"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"gotham-",
+				"gotham-body"
+			],
+			[
+				"activeTenant",
+				"activeTenantButton"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"inputF",
+				"inputFilePath\tforstmt"
+			],
+			[
+				"in",
+				"inputfiles\tstatement"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"loc",
+				"locationId"
+			],
+			[
+				"slide",
+				"slideshowInterval"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"tourn",
+				"tourney"
+			],
+			[
+				"tou",
+				"tourney"
+			],
+			[
+				"tour",
+				"tourney"
+			],
+			[
+				"viewm",
+				"viewmodel"
+			],
+			[
+				"curre",
+				"currentComputation"
+			],
+			[
+				"arl",
+				"alarmTimeout"
+			],
+			[
+				"fix",
+				"Fixture"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"fixture",
+				"fixtureNum"
+			],
+			[
+				"parseI",
+				"parseInt"
+			],
+			[
+				"data",
+				"databaseDeleteLots"
+			],
+			[
+				"set",
+				"settingsDef"
+			],
+			[
+				"sett",
+				"settingsDef"
+			],
+			[
+				"view",
+				"viewmodel"
+			],
+			[
+				"reset",
+				"resetElapsed"
+			],
+			[
+				"footer",
+				"footerDim"
+			],
+			[
+				"template",
+				"templateInstance"
+			],
+			[
+				"anim",
+				"animation-direction"
+			],
+			[
+				"AAA",
+				"AAAHHH_FOOTERDATA"
+			],
+			[
+				"alread",
+				"alreadyElapsed"
+			],
+			[
+				"com",
+				"commencedAt"
+			],
+			[
+				"border-bott",
+				"border-bottom-left-radius"
+			],
+			[
+				"fixtureC",
+				"fixtureCount"
+			],
+			[
+				"fighter",
+				"fighterSlot"
+			],
+			[
+				"fight",
+				"fighterId"
+			],
+			[
+				"fig",
+				"fighterSlot"
+			],
+			[
+				"const",
+				"constraints"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"impo",
+				"imports"
+			],
+			[
+				"ro",
+				"roundNum"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"brea",
+				"breadcrumb"
+			],
+			[
+				"fixt",
+				"fixtureUnelectMatch"
+			],
+			[
+				"mat",
+				"matchId"
+			],
+			[
+				"figh",
+				"fighterIndex"
+			],
+			[
+				"rou",
+				"roundNum"
+			],
+			[
+				"round",
+				"roundNum"
+			],
+			[
+				"fixtre",
+				"fixturesDoneCount"
+			],
+			[
+				"fixtures",
+				"fixtures"
+			],
+			[
+				"page_sch",
+				"page_schedule_roundentry"
+			],
+			[
+				"stat",
+				"statistics"
+			],
+			[
+				"roun",
+				"roundI"
+			],
+			[
+				"page",
+				"page_match_setup"
+			],
+			[
+				"sw",
+				"switchScores"
+			],
+			[
+				"modal",
+				"modal_matchmore"
+			],
+			[
+				"location",
+				"locationId"
+			],
+			[
+				"scorer",
+				"scorerEdit"
+			],
+			[
+				"mar",
+				"marshalId"
+			],
+			[
+				"translate",
+				"translateX"
+			],
+			[
+				"search",
+				"searchQuery"
+			],
+			[
+				"sear",
+				"searchQuery"
+			],
+			[
+				"easye",
+				"easyedit_modal"
+			],
+			[
+				"cell",
+				"cell-buttons-fb"
+			],
+			[
+				"scor",
+				"scorerId"
+			],
+			[
+				"page_org",
+				"page_organisations"
+			],
+			[
+				"Organ",
+				"Organisation"
+			],
+			[
+				"ORgan",
+				"Organisation"
+			],
+			[
+				"people",
+				"peopleeditor_personeditor"
+			],
+			[
+				"meteor",
+				"Meteorific"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"Org",
+				"Organisation"
+			],
+			[
+				"Or",
+				"Organisation"
+			],
+			[
+				"Orga",
+				"Organisations"
+			],
+			[
+				"div",
+				"divlink"
+			],
+			[
+				"normal",
+				"normalheader"
+			],
+			[
+				"ico",
+				"icon-search"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font-artic",
+				"font-article-nav"
+			],
+			[
+				"displa",
+				"displayTenantPage"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"sound",
+				"soundlog_count\tstatement"
+			],
+			[
+				"other",
+				"otherBank_id"
+			],
+			[
+				"sc",
+				"scissors"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"lane",
+				"laneLength"
+			],
+			[
+				"cen",
+				"centreX"
+			],
+			[
+				"screen",
+				"screenW"
+			],
+			[
+				"pr",
+				"projectile"
+			],
+			[
+				"ce",
+				"centreX"
+			],
+			[
+				"scre",
+				"screenH"
+			],
+			[
+				"no",
+				"no_play_only_info"
+			],
+			[
+				"curren",
+				"current_commit"
+			],
+			[
+				"diff",
+				"diff_info"
+			],
+			[
+				"osp",
+				"ospipe_write"
+			],
+			[
+				"opu",
+				"opus_terminating"
+			],
+			[
+				"cur",
+				"curr_slide_i"
+			],
+			[
+				"time",
+				"time_remaining"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"outline",
+				"outline-width"
+			],
+			[
+				"bone_corr",
+				"bone_correction_matrix"
+			],
+			[
+				"sou",
+				"source_channel"
+			],
+			[
+				"acti",
+				"activities"
+			],
+			[
+				"blend_a",
+				"blend_armatureobj"
+			],
+			[
+				"curr",
+				"curr_frame"
+			],
+			[
+				"new",
+				"newquat"
+			],
+			[
+				"pare",
+				"parent_id"
+			],
+			[
+				"an",
+				"animation"
+			],
+			[
+				"blend",
+				"blend_posebone"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"last_filter": "cargo run",
+		"selected_items":
+		[
+			[
+				"cargo run",
+				"Build With: Cargo - Run"
+			],
+			[
+				"rust run",
+				"Build With: Rust - Run"
+			],
+			[
+				"cargo",
+				"Build With: Cargo - Run"
+			],
+			[
+				"rust",
+				"Build With: Rust"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"base",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"floo",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"diff",
+				"Diffy Cleanup"
+			],
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"summ",
+				"Floobits - Summon Everyone"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"ftp",
+				"FTPSync: Upload current file"
+			],
+			[
+				"css",
+				"CSS3: Validate (Beta)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"nimrod",
+				"Nimrod: Go To Definition"
+			],
+			[
+				"babel",
+				"Nimrod: Install Babel Package"
+			],
+			[
+				"nimble",
+				"Nimrod: Update Babel Package List"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"packag ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 719.0,
+		"history":
+		[
+			"import pip",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/workspace/projects/game"
+	],
+	"file_history":
+	[
+		"/C/workspace/clients/up/bcsite/bcsite.sublime-project",
+		"/G/titanfall2stuff/search.py",
+		"/G/titanfall2stuff/packedVPK/names.txt",
+		"/C/workspace/mess/flowfield/main.lua",
+		"/C/workspace/mess/flowfield/test.lua",
+		"/C/workspace/mess/flowfield/conf.lua",
+		"/C/workspace/mess/lukeflowfield/main.lua",
+		"/C/workspace/mess/lukeflowfield/conf.lua",
+		"/C/Users/Declan White/Documents/Respawn/Titanfall2/profile/profile.cfg",
+		"/G/OriginLibrary/Titanfall2/r2/cfg/autoexec.cfg",
+		"/C/Users/Declan White/Documents/Respawn/Titanfall2/local/settings.cfg",
+		"/G/tmp/arma3mods.txt",
+		"/C/workspace/projects/LOVE/funnyo/main.lua",
+		"/C/Program Files/LOVE/readme.txt",
+		"/C/workspace/mess/flowfield.lua",
+		"/C/workspace/mess/flowfield/flowfield.lua",
+		"/C/Users/Declan White/Documents/Respawn/Titanfall2/profile/savegames/savegame.sav",
+		"/C/workspace/clients/up/bcsite/site/_pages/multigrainwraps.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/steackbaconcheese.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/freshbread.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/alwayshungry.md",
+		"/G/titanfall2stuff/res/pc_all.starpak.txt",
+		"/G/titanfall2stuff/extracted/v3/mp_fowardbase_kodai/scripts/vscripts/client/levels/cl_mp_skyshow_generic.nut",
+		"/C/workspace/clients/up/bcsite/site/_pages/freshlymade.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/ingredients.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/wrapsavailable.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-04-subway-jointheteam.md",
+		"/C/workspace/clients/up/bcsite/site/_includes/hours.html",
+		"/C/workspace/clients/up/bcsite/site/_pages/platter.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/kidspack.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/sides.md",
+		"/C/workspace/clients/up/bcsite/site/_pages/riversurf.md",
+		"/C/workspace/clients/up/bcsite/site/_config.yml",
+		"/C/workspace/clients/up/bcsite/site/_pages/meatballpinball.md",
+		"/C/workspace/clients/up/bcsite/site/assets/poststuff/platter.md",
+		"/C/workspace/clients/up/bcsite/site/assets/poststuff/sides.md",
+		"/C/workspace/clients/up/bcsite/site/assets/poststuff/steackbaconcheese.md",
+		"/C/workspace/clients/up/bcsite/site/assets/poststuff/kidspack.md",
+		"/C/workspace/clients/up/bcsite/site/assets/poststuff/multigrainwraps.md",
+		"/C/workspace/clients/up/bcsite/site/assets/poststuff/freshbread.md",
+		"/C/workspace/clients/up/bcsite/site/assets/poststuff/freshlymade.md",
+		"/C/Users/Declan White/Downloads/13102691_10154733025599068_1792473159863788453_n.jpg",
+		"/C/workspace/clients/up/bcsite/site/poststuff/footlong.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/girlonbench.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/meatballcombo.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/meatballfree.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/meatballpinball.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/meatballtennis.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/mmmm.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/moanasketch.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/racecarguy.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/riverpeople.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/riversurf.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/subdonate.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/surfguy.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/sweetcookies.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/trayoffood.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/alwayshungry.md",
+		"/C/workspace/clients/up/bcsite/site/poststuff/footballsub.md",
+		"/C/workspace/yes",
+		"/c/users/declan~1/appdata/local/temp/rsub-oafka3/wtf.sh",
+		"/C/workspace/trimskip.lua",
+		"/C/workspace/wobly.lua",
+		"/C/workspace/projects/discordbot/wtf.sh",
+		"/C/workspace/lol.lua",
+		"/C/workspace/projects/discordbot/wtf.js",
+		"/C/workspace/floobits/TestWorkspace/SnakeBot/claudio.py",
+		"/C/Users/Declan White/AppData/Local/Discord/app-0.0.297/resources/electron.asar",
+		"/C/Users/Declan White/AppData/Local/Discord/app-0.0.297/resources/app.asar",
+		"/C/Users/DECLAN~1/AppData/Local/Temp/7zED4E5.tmp/discord_voice.node",
+		"/C/Users/Declan White/AppData/Local/Discord/app-0.0.297/resources/bootstrap/manifest.json",
+		"/C/Users/Declan White/AppData/Local/Discord/app-0.0.297/resources/bootstrap/discord_voice.node",
+		"/C/workspace/blehauspost.lua",
+		"/C/workspace/projects/bcsite/work/gmaps.html",
+		"/G/titanfall2stuff/extracted/v3/merged_all/scripts/vscripts/ui/menu_main.nut",
+		"/C/workspace/projects/bcsite/gmapsthing.html",
+		"/C/workspace/clients/up/bcsite/site/_sass/fonts.scss",
+		"/C/workspace/clients/up/bcsite/site/css/font-awesome.css",
+		"/C/workspace/projects/bcsite/site/img/covers/HELP-US-OUT.txt",
+		"/C/Users/DECLAN~1/AppData/Local/Temp/7zE87DB.tmp/HELP-US-OUT.txt",
+		"/C/workspace/clients/up/bcsite/site/_tenants/dome.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-04-subway-nutrionalinformation.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-04-subway-steaksubnowavailable.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-04-subway-tomato.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-10-dork.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-10-newsagency-adventures - Copy.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-11-bendigo.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-12-newsagency.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-13-chinese.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-14-bc3.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-14-chinese2.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-15-realty.md",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-16-chinese3.md",
+		"/C/workspace/clients/up/bcsite/site/css/main.scss",
+		"/C/workspace/clients/up/bcsite/site/_data/tenants.yml",
+		"/C/workspace/clients/up/bcsite/site/js/main.js",
+		"/C/workspace/clients/up/bcsite/site/_includes/header.html",
+		"/C/workspace/clients/up/bcsite/site/_layouts/page.html",
+		"/C/workspace/clients/up/bcsite/site/_data/iconorder.yml",
+		"/C/workspace/clients/up/bcsite/site/_sass/util.scss",
+		"/C/workspace/clients/up/bcsite/site/js/vendor/jquery.timeago.js",
+		"/C/workspace/clients/up/bcsite/site/_plugins/util.rb",
+		"/C/workspace/clients/up/bcsite/site/index.html",
+		"/C/workspace/projects/rustfun/yay.rs",
+		"/C/Users/Declan White/AppData/Local/Microsoft/Windows/INetCache/IE/686AEZ4U/IMG_1012[1].AAE",
+		"/C/workspace/clients/up/bcsite/site/_posts/2016-08-01-subway-catering.md",
+		"/C/workspace/clients/up/bcsite/site/_layouts/post.html",
+		"/C/workspace/clients/up/bcsite/site/js/vendor/moment.js",
+		"/C/workspace/projects/bcsite/test5/_posts/2016-08-04-subway-boxedmeals.md",
+		"/C/workspace/projects/bcsite/site/IMG_1516.jse",
+		"/C/workspace/projects/bcsite/test4/_sass/fonts.scss",
+		"/C/workspace/projects/bcsite/test5/css/main.scss",
+		"/C/workspace/projects/bcsite/test4/css/main.scss",
+		"/C/workspace/clients/po/active_app/site/index.html",
+		"/C/workspace/projects/bcsite/test4/test.html",
+		"/C/workspace/projects/bcsite/test5/test.html",
+		"/C/workspace/projects/bcsite/site/_config.yml",
+		"/C/workspace/projects/bcsite/test5/_config.yml",
+		"/C/workspace/projects/bcsite/test4/js/test.js",
+		"/C/workspace/projects/bcsite/test4/_data/tenants.yml",
+		"/C/workspace/projects/bcsite/test4/_data/iconorder.yml",
+		"/C/workspace/projects/bcsite/test2 - Copy/test.html",
+		"/C/workspace/projects/bcsite/test3/test.html",
+		"/C/workspace/projects/bcsite/test3/css/main.scss",
+		"/C/Users/DECLAN~1/AppData/Local/Temp/7zE8E1E.tmp/slick.js",
+		"/C/workspace/projects/bcsite/site/index.html",
+		"/C/workspace/projects/bcsite/site/_data/iconorder.yml",
+		"/C/workspace/projects/bcsite/site/_sass/_layout.scss"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\workspace\\clients\\up\\bcsite\\site\\poststuff\\",
+			"C:\\workspace\\clients\\up\\bcsite\\site\\poststuff\\*.md",
+			"G:\\titanfall2stuff\\v2\\extracted_both\\",
+			"G:\\titanfall2stuff\\v2\\extracted_both\\scripts\\weapons",
+			"C:\\workspace\\floobits\\TestWorkspace\\SnakeBot",
+			"C:\\workspace\\floobits\\TestWorkspace\\SnakeBot\\google",
+			"C:\\workspace\\curtin\\sc\\assignment2",
+			"C:\\workspace\\curtin\\sc\\assignment2\\FlappyBiz"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wtf()",
+			"CELL_SCALE",
+			"x",
+			"colourfield",
+			"getFlowCell",
+			"getLerpFlowCell",
+			"getflow",
+			"calc",
+			"flowfield",
+			"z = ",
+			"randomize =",
+			"particle.v =",
+			"particle.m",
+			"for i",
+			"ipairs",
+			"DO_FUZZ",
+			"sprite",
+			"TIME_SCALE",
+			"wtf()",
+			"print",
+			"DO_BOXES",
+			"-1",
+			"getFlowCell",
+			"flowfield",
+			"setFlowCell",
+			"DO_PARTICLES",
+			"FORCE",
+			"developer",
+			"mans_trigger",
+			"DEAD_",
+			"section-light",
+			"cover",
+			"vig",
+			"box-shadow",
+			"text-shadow",
+			".imgwrap",
+			"alt",
+			".grid",
+			"alt",
+			"alt7",
+			"1024",
+			"1024px",
+			"random",
+			"quick",
+			"/assets/",
+			"png",
+			".item",
+			"infobox",
+			"hour",
+			"hours",
+			"trim",
+			"ptt",
+			"pushtotalk",
+			"reverb",
+			"SOX_PCM_PARAMS",
+			"sox",
+			"sign",
+			"unsigned",
+			"pushtotalk",
+			"MatchmakingBegin",
+			"flags",
+			"console.log",
+			".est",
+			"section-",
+			"id=\"section-",
+			"section",
+			"#section",
+			"$('.menucontainer')",
+			"section-dark",
+			"nth-child",
+			"today",
+			"open",
+			"d=\"section-what\" ",
+			"section-dark",
+			"orderonline",
+			"assets",
+			"120",
+			"<div class=\"sectiondivider\"><div></div><div class=\"o\">&nbsp;</div><div></div></div>",
+			" order:",
+			"order:",
+			"posts",
+			"plan",
+			"238",
+			"255",
+			"z-index: ",
+			".loading",
+			"alt10",
+			"alt",
+			"alt0",
+			"background-size: auto",
+			"%;",
+			"alt7",
+			"245",
+			"80",
+			"200",
+			"text-shadow",
+			"bg",
+			"unslick",
+			"true",
+			"box-shadow",
+			"thing",
+			"Thing",
+			"bind p",
+			"pas_",
+			"threat_scope",
+			"Mods",
+			"Mods ",
+			"side",
+			"id",
+			"inset",
+			"emitEvent(\"layout\"",
+			";\n",
+			"border-radius",
+			"color: ",
+			"lel",
+			"slant",
+			"><div ",
+			"div><",
+			"><div ",
+			"<div style",
+			"logo_",
+			"<div>",
+			"<div",
+			"<div>",
+			"treat",
+			"test",
+			"marker",
+			"numbering"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/assets/poststuff/",
+			"md",
+			"id=\"",
+			"<div class=\"sectiondivider\"><div></div><div></div><div class=\"o\">&nbsp;</div><div></div><div></div></div>",
+			"arrow",
+			"Arrow",
+			"+",
+			"-",
+			"util.id",
+			"let",
+			"=",
+			"",
+			"Marshal",
+			"sm",
+			"let",
+			"a",
+			"\\1",
+			"\"",
+			"",
+			"_",
+			"",
+			"cell",
+			"cell \\1cell",
+			"large-60 ",
+			"large-60",
+			"large-40",
+			"large-120",
+			");return false;'>",
+			");return false;",
+			"useless",
+			"<a href=\"#\" onclick='displayContent(\"news\");'><div class=\"post\">",
+			"div",
+			"45deg",
+			",\\n",
+			"\\n- ",
+			"",
+			"952\\1-",
+			"]",
+			"[",
+			"\\1",
+			"5",
+			"9",
+			",1);",
+			",0.85);",
+			",0.7);",
+			",0.9);",
+			",0.2);",
+			"large-4 medium-6 column end tenantbox",
+			"Shop",
+			"unit",
+			"80rem",
+			"",
+			"\"",
+			"'",
+			"",
+			"\"",
+			"'",
+			"",
+			"\"",
+			"'",
+			"",
+			"soundlog_count",
+			"500",
+			"700",
+			"600",
+			"300",
+			"1200",
+			"screenCY",
+			"screenCX",
+			"[trim <0,1.1> 0.2],",
+			"l",
+			" ",
+			"\\1 \\2",
+			"%2",
+			"51.2",
+			"50.2",
+			"49.2",
+			"48.2",
+			"62",
+			"48.2",
+			"",
+			"tex",
+			"textures",
+			"-- ",
+			"",
+			"\\n",
+			"STENCIL_",
+			"0.23",
+			"0.15",
+			" vol 0.1]",
+			"loud",
+			"stream",
+			"message",
+			"msg",
+			"isinstance",
+			"v",
+			":",
+			"elif",
+			"=",
+			"aio",
+			"control_message_types['$1'] = $2",
+			"from",
+			", metaclass=$1):",
+			"mgy",
+			"mgx",
+			"currpos",
+			"FlappyBiz",
+			"vaas",
+			"-",
+			"sox",
+			"",
+			"(ctx)",
+			"header",
+			"cf",
+			"",
+			"i420n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "game.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
