@@ -1,0 +1,6 @@
+[submodule "repo/deps/winit"]
+	path = repo/deps/winit
+	url = https://github.com/tomaka/winit.git
+[submodule "repo/deps/vulkano"]
+	path = repo/deps/vulkano
+	url = https://github.com/tomaka/vulkano.git
