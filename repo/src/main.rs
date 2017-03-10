@@ -407,26 +407,26 @@ fn main() {
 
             prof.section("particles");
 
-            // for (_, v) in content.iter_mut().enumerate() {
-            //     v.position[0] += v.velocity[0] * dt / 1000.0 * 0.3;
-            //     v.position[1] += v.velocity[1] * dt / 1000.0 * 0.3;
-            //     if v.position[0] <= -1.0 {
-            //         v.position[0] = -1.0;
-            //         v.velocity[0] = -v.velocity[0];
-            //     }
-            //     if v.position[0] >= 1.0 {
-            //         v.position[0] = 1.0;
-            //         v.velocity[0] = -v.velocity[0];
-            //     }
-            //     if v.position[1] <= -1.0 {
-            //         v.position[1] = -1.0;
-            //         v.velocity[1] = -v.velocity[1];
-            //     }
-            //     if v.position[1] >= 1.0 {
-            //         v.position[1] = 1.0;
-            //         v.velocity[1] = -v.velocity[1];
-            //     }
-            // }
+            for (_, v) in content.iter_mut().enumerate() {
+                v.position[0] += v.velocity[0] * dt / 1000.0 * 0.3;
+                v.position[1] += v.velocity[1] * dt / 1000.0 * 0.3;
+                if v.position[0] <= -1.0 {
+                    v.position[0] = -1.0;
+                    v.velocity[0] = -v.velocity[0];
+                }
+                if v.position[0] >= 1.0 {
+                    v.position[0] = 1.0;
+                    v.velocity[0] = -v.velocity[0];
+                }
+                if v.position[1] <= -1.0 {
+                    v.position[1] = -1.0;
+                    v.velocity[1] = -v.velocity[1];
+                }
+                if v.position[1] >= 1.0 {
+                    v.position[1] = 1.0;
+                    v.velocity[1] = -v.velocity[1];
+                }
+            }
         }
         prof.section("retain");
         // Clearing the old submissions by keeping alive only the ones whose destructor would block.
